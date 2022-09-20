@@ -1,3 +1,8 @@
 <?php 
 var_dump("init");
-var_dump("code2");
+
+
+
+var_dump("hello");
+var_dump("");
+var_dump("kontiwa");
