@@ -1,3 +1,3 @@
 <?php 
 var_dump("init");
-var_dump("code1");
+var_dump("code2");
