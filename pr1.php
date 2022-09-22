@@ -1,6 +1,6 @@
 <?php 
 var_dump("init");
-var_dump("");
+var_dump("Good moning");
 var_dump("");
 var_dump("");
 var_dump("");
