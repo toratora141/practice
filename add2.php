@@ -1,1 +1,2 @@
-<var></var>
+<?php
+var_dump(true);
