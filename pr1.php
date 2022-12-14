@@ -4,3 +4,4 @@ var_dump("first");
 var_dump("add text");
 var_dump("second");
 var_dump("add text add text2");
+var_dump("third");
